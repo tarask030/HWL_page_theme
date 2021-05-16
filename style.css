@@ -837,15 +837,21 @@ picture img {
 .posts p a:hover{
   color:#07c8fd;
 }
+
 .posts h4{
   margin-bottom: 12px;
   font-weight: 300;
   font-size: 13px;
   text-align: right;
-  
-
+  width: 320px;
 }
-
+@media only screen and (min-width: 768px) {
+  .posts h4{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
 @media only screen and (min-width: 768px) {
   .posts{
     width: 700px;
@@ -914,13 +920,16 @@ picture img {
   width: 950px;
 }
 }
-.posts h4{
-  width: 700px;
-  margin-left: auto;
-  margin-right: auto;
+
+
+
+.article .tags{
+  width: 320px;
 }
-article .tags{
-  width: 650px;
+@media only screen and (min-width: 768px) {
+  article .tags{
+    width: 650px;
+  }
 }
 
 .read_offert_block_name {
