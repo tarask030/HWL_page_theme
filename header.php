@@ -21,17 +21,17 @@
 
       <div class="hamburger">
         <ul class="main-menu">
-          <li><a href="index.php">START</a></li>
+          <li><a href="https://humanworklogistic.pl/index.php">START</a></li>
           <li class="menu-children">
-              <a href="services.php">USŁUGI</a>
+              <a href="https://humanworklogistic.pl/services.php">USŁUGI</a>
               <ul>
-                  <li><a href="services.php">OUTSOURCING LOGISTYCZNY</a></li>
-                  <li><a href="services.php">OUTSOURCING PRODUKCYJNY</a></li>         
+                  <li><a href="https://humanworklogistic.pl/services.php#out_log">OUTSOURCING LOGISTYCZNY</a></li>
+                  <li><a href="https://humanworklogistic.pl/services.php#out_prod">OUTSOURCING PRODUKCYJNY</a></li>         
               </ul>
           </li>
-          <li><a href="client_zone.php">STREFA KLIENTA</a></li>
-          <li><a href="aboutus.php">O NAS</a></li>
-          <li class="active"><a href="#">BLOG</a></li>       
+          <li><a href="https://humanworklogistic.pl/client_zone.php">STREFA KLIENTA</a></li>
+          <li><a href="https://humanworklogistic.pl/aboutus.php">O NAS</a></li>
+          <li class="active"><a href="https://blog.humanworklogistic.pl/">BLOG</a></li>       
         </ul>
       </div>
 
@@ -47,19 +47,19 @@
             <div class="logo_header">
               <img src="<?php echo get_stylesheet_directory_uri();?>/logo/logo_header.svg" alt="">
             </div>
-            <li><a class="menu_item_first" href="index.php">START</a></li>
+            <li><a class="menu_item_first" href="https://humanworklogistic.pl/index.php">START</a></li>
 
             <input type = "checkbox" name = "one" id = "one">
             <label for = "one">
               <span class="menu_span">USŁUGI <img src="<?php echo get_stylesheet_directory_uri();?>/images/sharp.svg"></span>
                 <ul class = "submenu">
-                  <li><a class="submenu"href="services.php">OUTSOURCING LOGISTYCZNY</a></li>
-                  <li><a class="submenu"href="services.php">OUTSOURCING PRODUKCYJNY</a></li>
+                  <li><a class="submenu"href="https://humanworklogistic.pl/services.php#out_log">OUTSOURCING LOGISTYCZNY</a></li>
+                  <li><a class="submenu"href="https://humanworklogistic.pl/services.php#out_prod">OUTSOURCING PRODUKCYJNY</a></li>
                 </ul>
             </label>
-            <li><a class="menu__item_second" href="client_none.php">STREFA KLIENTA</a></li>        
-            <li><a class="menu__item" href="aboutus.php">O NAS</a></li>
-            <li><a class="menu__item" href="#">BLOG</a></li>
+            <li><a class="menu__item_second" href="https://humanworklogistic.pl/client_zone.php">STREFA KLIENTA</a></li>        
+            <li><a class="menu__item" href="https://humanworklogistic.pl/aboutus.php">O NAS</a></li>
+            <li><a class="menu__item" href="https://blog.humanworklogistic.pl/">BLOG</a></li>
           </ul>
       </div>
     </div>
