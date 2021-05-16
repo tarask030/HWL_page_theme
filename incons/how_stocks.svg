@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Сгруппировать_402" data-name="Сгруппировать 402" transform="translate(-8393 -5004)">
+    <g id="Сгруппировать_241" data-name="Сгруппировать 241" transform="translate(8377 3690)">
+      <g id="Эллипс_87" data-name="Эллипс 87" transform="translate(16 1314)" fill="#fff" stroke="#00acda" stroke-width="2">
+        <circle cx="32" cy="32" r="32" stroke="none"/>
+        <circle cx="32" cy="32" r="31" fill="none"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_90" data-name="Сгруппировать 90" transform="translate(8412 5024)">
+      <path id="Контур_71" data-name="Контур 71" d="M2441.915-2981.308" transform="translate(-2423.396 2989.331)"/>
+      <path id="Контур_72" data-name="Контур 72" d="M2391.148-3035.665" transform="translate(-2376.428 3039.62)"/>
+      <rect id="Прямоугольник_117" data-name="Прямоугольник 117" width="6.821" height="6.821" transform="translate(0 17.527)" fill="#00acda"/>
+      <rect id="Прямоугольник_118" data-name="Прямоугольник 118" width="6.821" height="11.484" transform="translate(9.3 12.864)" fill="#00acda"/>
+      <rect id="Прямоугольник_119" data-name="Прямоугольник 119" width="6.821" height="16.147" transform="translate(18.6 8.201)" fill="#00acda"/>
+      <path id="Контур_73" data-name="Контур 73" d="M2227.725-3072.576a1.007,1.007,0,0,0,.714-.3l6.43-6.43,1.435,1.408a1.01,1.01,0,0,0,1.422-.006l6.8-6.8,1.253,1.253,1.134-5.068-5.068,1.134,1.252,1.252-6.088,6.089-1.435-1.408a1.01,1.01,0,0,0-1.422.007l-7.138,7.138a1.011,1.011,0,0,0,0,1.429,1.011,1.011,0,0,0,.714.3Z" transform="translate(-2224.302 3088.513)" fill="#00acda"/>
+    </g>
+  </g>
+</svg>

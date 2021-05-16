@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+  <g id="money" transform="translate(-6198 -3368)">
+    <g id="Эллипс_64" data-name="Эллипс 64" transform="translate(6198 3368)" fill="#00acda" stroke="#00acda" stroke-width="3">
+      <circle cx="27.5" cy="27.5" r="27.5" stroke="none"/>
+      <circle cx="27.5" cy="27.5" r="26" fill="none"/>
+    </g>
+    <g id="money_icon_" data-name="money_icon ">
+      <path id="path1213" d="M573.657,424.024v1.538H604.2V410.289h-2.054" transform="translate(5638.162 2979.529)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.527"/>
+      <g id="Сгруппировать_333" data-name="Сгруппировать 333">
+        <path id="path1229" d="M585.875,409.525a5.346,5.346,0,1,0,5.345,5.346A5.357,5.357,0,0,0,585.875,409.525Z" transform="translate(5638.162 2979.529)" fill="#fff" opacity="0.96" style="isolation: isolate"/>
+        <path id="path1208" d="M570.6,407.235v15.273h30.546V407.235Z" transform="translate(5638.162 2979.529)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.527"/>
+        <path id="path1233" d="M573.141,421.62a1.651,1.651,0,1,1-1.651-1.652A1.651,1.651,0,0,1,573.141,421.62Z" transform="translate(5638.162 2979.529)" fill="rgba(255,255,255,0.96)"/>
+        <path id="path1236" d="M573.141,408.122a1.651,1.651,0,1,1-1.651-1.651A1.652,1.652,0,0,1,573.141,408.122Z" transform="translate(5638.162 2979.529)" fill="rgba(255,255,255,0.96)"/>
+        <path id="path1238" d="M601.912,421.62a1.651,1.651,0,1,1-1.652-1.652A1.652,1.652,0,0,1,601.912,421.62Z" transform="translate(5638.162 2979.529)" fill="rgba(255,255,255,0.96)"/>
+        <path id="path1240" d="M601.912,408.122a1.651,1.651,0,1,1-1.652-1.651A1.652,1.652,0,0,1,601.912,408.122Z" transform="translate(5638.162 2979.529)" fill="rgba(255,255,255,0.96)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+  <g id="optimization" transform="translate(-31 -4355)">
+    <g id="Эллипс_105" data-name="Эллипс 105" transform="translate(31 4355)" fill="#fff" stroke="#00acda" stroke-width="2">
+      <circle cx="27.5" cy="27.5" r="27.5" stroke="none"/>
+      <circle cx="27.5" cy="27.5" r="26.5" fill="none"/>
+    </g>
+    <g id="optimization_icon" transform="translate(47.409 4367.959)">
+      <path id="Контур_92" data-name="Контур 92" d="M4844.108-1191.14h-16.392v29.081H4849.9v-23.291Zm4.594,27.512h-19.789v-25.943h14.624v5.166h5.165Z" transform="translate(-4827.717 1191.14)" fill="#00acda"/>
+      <rect id="Прямоугольник_122" data-name="Прямоугольник 122" width="15.014" height="1.893" transform="translate(3.584 21.553)" fill="#00acda"/>
+      <rect id="Прямоугольник_123" data-name="Прямоугольник 123" width="15.014" height="1.893" transform="translate(3.584 17.853)" fill="#00acda"/>
+      <rect id="Прямоугольник_124" data-name="Прямоугольник 124" width="15.014" height="1.893" transform="translate(3.584 14.153)" fill="#00acda"/>
+      <rect id="Прямоугольник_125" data-name="Прямоугольник 125" width="15.014" height="1.893" transform="translate(3.584 10.454)" fill="#00acda"/>
+    </g>
+  </g>
+</svg>

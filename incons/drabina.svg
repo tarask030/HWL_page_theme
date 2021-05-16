@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+  <g id="operations_icon" transform="translate(-16 -3085)">
+    <g id="Эллипс_80" data-name="Эллипс 80" transform="translate(16 3085)" fill="#00acda" stroke="#00acda" stroke-width="3">
+      <circle cx="27.5" cy="27.5" r="27.5" stroke="none"/>
+      <circle cx="27.5" cy="27.5" r="26" fill="none"/>
+    </g>
+    <g id="Сгруппировать_107" data-name="Сгруппировать 107" transform="translate(1775.067 5850.867)">
+      <path id="Контур_96" data-name="Контур 96" d="M-1738.915-2731.428h14.77v3.749h-14.77Zm0-6.448h14.77v3.824h-14.77Zm0-6.373h14.77v3.749h-14.77Zm0-6.448h14.77v3.749h-14.77Zm-2.7-5.323-.075,33.588h2.774v-2.624h14.77v2.624l2.7.075v-33.663h-2.7v2.624h-14.77v-2.624h-2.7" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

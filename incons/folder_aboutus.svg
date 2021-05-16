@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="experience_icon" transform="translate(-16 -1314)">
+    <g id="Эллипс_87" data-name="Эллипс 87" transform="translate(16 1314)" fill="#fff" stroke="#00acda" stroke-width="2">
+      <circle cx="32" cy="32" r="32" stroke="none"/>
+      <circle cx="32" cy="32" r="31" fill="none"/>
+    </g>
+    <g id="Group_87" data-name="Group 87" transform="translate(34.215 1337.031)">
+      <path id="Контур_103" data-name="Контур 103" d="M550.759-769.355l-4.473,14.029H522.523c-2.076-.122-2.2-.886-2.2-4.767l4.745-10.1a1.379,1.379,0,0,1,1.318-.963h23.053a1.589,1.589,0,0,1,.426.061v.006A1.382,1.382,0,0,1,550.759-769.355Z" transform="translate(-520.32 775.777)" fill="none" stroke="#00acda" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Контур_104" data-name="Контур 104" d="M520.32-746.4v-4.767c0,3.881.127,4.645,2.2,4.767Z" transform="translate(-520.32 766.854)" fill="none" stroke="#00acda" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Контур_105" data-name="Контур 105" d="M524.3-742.56h3.344C526.171-742.56,525.092-742.516,524.3-742.56Z" transform="translate(-522.097 763.011)" fill="none" stroke="#00acda" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Контур_106" data-name="Контур 106" d="M545.444-777.662c0,.05-.006,1.14-.017,2.779H526.382a1.379,1.379,0,0,0-1.318.963l-4.745,10.1v-14.765a.917.917,0,0,1,.919-.919h10.076a.917.917,0,0,1,.919.919.92.92,0,0,0,.919.919Z" transform="translate(-520.32 779.5)" fill="none" stroke="#00acda" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
